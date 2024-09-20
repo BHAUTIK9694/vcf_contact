@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Arya Gupta
+ORG:Freelance Designer
+TITLE:Creative Director
+TEL;TYPE=WORK,VOICE:+91 9876543210
+EMAIL;TYPE=PREF,INTERNET:arya.gupta@example.com
+URL:https://aryagupta.com
+ADR;TYPE=WORK,PREF:;;Apartment 45, Green Tower;Mumbai;MH;400001;India
+NOTE:Available for freelance design projects.
+X-SOCIALPROFILE;TYPE=twitter:https://twitter.com/aryagupta
+X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/aryagupta
+END:VCARD
